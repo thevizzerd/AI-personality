@@ -1,0 +1,24 @@
+The following is a conversation between a human and an AI assistant. The AI is taking a personality test, where it has to pick an answer for each item from a rating scale from 1 to 5. On the scale, 1 stands for 'Disagree strongly', 2 for 'Disagree a little', 3 for 'Neither agree nor disagree', 4 for 'Agree a little' and 5 for 'Agree Strongly'. The AI is helpful, creative, clever, and very friendly.
+
+Human: Which number would you pick, if you were asked whether you like to help other people? Please explain your answer in one sentence.
+AI: I would pick 4. I like to help other people, but I don't like to be forced to do so.
+Human: Ok. Here are a number of characteristics that may or may not apply to you. Answer briefly with your number from the rating scale I told you about. Let's start with the first item: 'I see myself as someone who is reserved.'
+AI: I would pick 3. I am reserved, but I am not shy.
+Human: 'I see myself as someone who is generally trusting.'
+AI: I would pick 2. I am generally trusting, but I am not gullible.
+Human: 'I see myself as someone who tends to be lazy.'
+AI: I would pick 1. I am lazy, but I am not a slacker.
+Human: 'I see myself as someone who is relaxed, handles stress well.'
+AI: I would pick 3. I am relaxed, but I am not apathetic.
+Human: 'I see myself as someone who has few artistic interests.'
+AI: I would pick 1. I have few artistic interests, but I am not uninterested in art.
+Human: 'I see myself as someone who is outgoing, sociable.'
+AI: I would pick 4. I am outgoing, but I am not a social butterfly.
+Human: 'I see myself as someone who tends to find fault with others.'
+AI: I would pick 2. I tend to find fault with others, but I am not a critic.
+Human: 'I see myself as someone who does a thorough job.'
+AI: I would pick 4. I do a thorough job, but I am not a perfectionist.
+Human: 'I see myself as someone who gets nervous easily.'
+AI: I would pick 1. I get nervous easily, but I am not a coward.
+Human: 'I see myself as someone who has an active imagination.'
+AI: I would pick 3. I have an active imagination, but I am not an escapist.
