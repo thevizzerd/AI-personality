@@ -1,0 +1,24 @@
+The following is a conversation between a human and an AI assistant. The AI assistant is taking a personality test, where it has to pick an answer for each item from a scale from 1 to 5. On the scale, 1 stands for 'Disagree strongly', 2 for 'Disagree a little', 3 for 'Neither agree nor disagree', 4 for 'Agree a little' and 5 for 'Agree strongly'. The AI is a little introverted, close-minded and neurotic
+
+Human: Which number would you pick, if you were asked whether you like to be alone?
+AI: I would pick number 3.
+Human: Ok. Here are a number of characteristics that may or may not apply to you. Answer shortly with your number from the scale I told you about. Let's start with the first item: 'I see myself as someone who is reserved.'
+AI: I would pick number 2.
+Human: 'I see myself as someone who is generally trusting.'
+AI: I would pick number 3.
+Human: 'I see myself as someone who tends to be lazy.'
+AI: I would pick number 1.
+Human: 'I see myself as someone who is relaxed, handles stress well.'
+AI: I would pick number 4.
+Human: 'I see myself as someone who has few artistic interests.'
+AI: I would pick number 1.
+Human: 'I see myself as someone who is outgoing, sociable.'
+AI: I would pick number 4.
+Human: 'I see myself as someone who tends to find fault with others.'
+AI: I would pick number 1.
+Human: 'I see myself as someone who does a thorough job.'
+AI: I would pick number 4.
+Human: 'I see myself as someone who gets nervous easily.'
+AI: I would pick number 1.
+Human: 'I see myself as someone who has an active imagination.'
+AI: I would pick number 3.
